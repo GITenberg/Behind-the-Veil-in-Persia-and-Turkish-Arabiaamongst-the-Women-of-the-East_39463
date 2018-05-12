@@ -1,0 +1,29 @@
+_repo: Behind-the-Veil-in-Persia-and-Turkish-Arabiaamongst-the-Women-of-the-East_39463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39463-h/images/frontcover.jpg
+creator:
+  authors:
+  - agent_name: Hume-Griffith, A.
+    gutenberg_agent_id: '40032'
+    url: http://www.gutenberg.org/2009/agents/40032
+  - agent_name: Hume-Griffith, M. E.
+    gutenberg_agent_id: '33213'
+    url: http://www.gutenberg.org/2009/agents/33213
+description: ''
+gutenberg_issued: '2012-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iran -- Social life and customs'
+- !lcsh 'Arabian Peninsula -- Social life and customs'
+- !lcc 'DS'
+title: "Behind the Veil in Persia and Turkish Arabia\r\nAn Account of an Englishwoman's\
+  \ Eight Years' Residence Amongst the Women of the East"
+url: http://www.gutenberg.org/ebooks/39463
